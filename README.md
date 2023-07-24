@@ -8,3 +8,7 @@ Join our thriving community of developers for quick and efficient help. Head ove
 
 # Website
 https://se1f.repl.co
+
+# If you're trying to self-host this..
+Consider changing `.htmll` files extension to `.html`
+i did this so the repo show as a go repo not html one.
